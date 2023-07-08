@@ -1,4 +1,4 @@
-<h1>Analisador de Logs - Script Bash</h1>
+<h1>logautomatico.sh</h1>
 
 <p>Este script Bash oferece um menu interativo para análise de logs. Ele oferece várias opções para analisar diferentes aspectos dos logs, como endereços IP, diretórios acessados e User Agents.</p>
 <h2>Recursos</h2>

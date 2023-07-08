@@ -1,4 +1,4 @@
-Analisador de Logs - Script Bash
+<h1>Analisador de Logs - Script Bash</h1>
 
 Este script Bash oferece um menu interativo para análise de logs. Ele oferece várias opções para analisar diferentes aspectos dos logs, como endereços IP, diretórios acessados e User Agents.
 Recursos

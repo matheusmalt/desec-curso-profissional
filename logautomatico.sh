@@ -106,6 +106,10 @@ salvar_em_arquivo() {
     echo
 }
 
+sair() {
+  echo "Opção inválida. Fechando programa."
+  exit 0
+}
 # Verifica se o arquivo de log foi passado como argumento
 if [ -z "$1" ]; then
     clear
@@ -134,7 +138,7 @@ while [ "$opcao" != "0" ]; do
         "3") analisar_user_agents ;;
         "4") analisar_completo ;;
         "0") echo "Encerrando o programa. Até logo!" ;;
-        *) echo "Opção inválida. Por favor, escolha uma opção válida." ;;
+        *) sair;;
     esac
 
     echo

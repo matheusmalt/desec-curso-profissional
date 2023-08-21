@@ -3,7 +3,7 @@
 <ol>
   <li>Limpeza do Console (`os.system("cls")`): Essa linha é usada para limpar a tela do console antes de imprimir as informações, proporcionando uma aparência mais organizada.</li>
   <br>
-  <li>Consulta Whois (`iana()` e `main()`)**: O código realiza a consulta Whois em duas etapas. Primeiro, ele consulta o servidor Whois "whois.iana.org" para obter o servidor Whois apropriado para o domínio fornecido. Em seguida, conecta-se ao servidor Whois específico e obtém as informações detalhadas do domínio.</li>
+  <li>Consulta Whois (`iana()` e `main()`): O código realiza a consulta Whois em duas etapas. Primeiro, ele consulta o servidor Whois "whois.iana.org" para obter o servidor Whois apropriado para o domínio fornecido. Em seguida, conecta-se ao servidor Whois específico e obtém as informações detalhadas do domínio.</li>
 </ol>
 <h1>Usos e Aplicações:</h1>
 <br>

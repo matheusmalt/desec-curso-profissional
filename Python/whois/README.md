@@ -1,0 +1,1 @@
+Este código Python é um programa de consulta Whois que permite inserir um nome de host (domínio) e obter informações sobre esse domínio, como o registrante e as datas de criação e expiração. O código faz uso de sockets para se comunicar com servidores Whois e obter os detalhes desejados.
